@@ -4,7 +4,7 @@ React Native Calculator
 Demo
 --------
 
-<img src="https://i.imgur.com/7GcuQcb.png" height="652" width="350">
+<img src="https://i.imgur.com/7GcuQcb.png" height="652" width="300">
 
 Features
 --------
